@@ -17,3 +17,5 @@ Configure your Wunderbar on the relayr cloud. Retrieve the bearer token identifi
 
 Update the token and the device id in the TemperatureGraph.java File.
 
+## Installation
+Import the project into the IntelliJ IDEA and run the TemperatureGraph.
